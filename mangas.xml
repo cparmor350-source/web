@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<m:coleccionMangas xmlns:m="http://www.mangas.com/schema">
+    
+    <m:manga>
+        <m:titulo>Dragon Ball</m:titulo>
+        <m:autor>Akira Toriyama</m:autor>
+        <m:precio moneda="EUR">40.50</m:precio>
+        <m:genero>Acción, Aventura, Artes marciales</m:genero>
+        <m:editorial>Shueisha</m:editorial>
+        <m:anioPublicacion>1984</m:anioPublicacion>
+    </m:manga>
+
+    <m:manga>
+        <m:titulo>One Piece</m:titulo>
+        <m:autor>Eiichiro Oda</m:autor>
+        <m:precio moneda="EUR">16.10</m:precio>
+        <m:genero>Aventura, Fantasía, Acción</m:genero>
+        <m:editorial>Shueisha</m:editorial>
+        <m:anioPublicacion>1997</m:anioPublicacion>
+    </m:manga>
+
+</m:coleccionMangas>
