@@ -8,7 +8,7 @@ Dragon Ball
 
 One Piece
 <img width="1723" height="852" alt="image" src="https://github.com/user-attachments/assets/57567768-27af-4280-8e15-3c72460cf223" />
-<img width="1723" height="852" alt="image" src="https://github.com/user-attachments/assets/57567768-27af-4280-8e15-3c72460cf223" />
+
 
 🖼️ Preview
 
